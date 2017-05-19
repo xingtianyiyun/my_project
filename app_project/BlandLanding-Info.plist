@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://116.62.35.191:8888/upload/BlandLanding.ipa</string>
+					<string>http://116.62.35.191:8888/app/BlandLanding.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
